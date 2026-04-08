@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Pearson and Sons Flooring Specialist",
+    "phone": "+19189827491",
+    "category": "flooring contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Flooring Done Right, Tulsa Strong",
+      "heroSubline": "Expert flooring installation and repair across Tulsa and surrounding communities. Quality craftsmanship, guaranteed.",
+      "aboutTitle": "Decades of Dedication to Tulsa Flooring",
+      "aboutText": [
+        "Pearson and Sons Flooring Specialist isn't just another contractor – we're a Tulsa institution. For over a decade, we've been laying the foundation for homes and businesses across Green Country, one meticulously installed plank at a time. Founded by two brothers with a shared passion for quality and a deep understanding of Tulsa's unique needs, we've built our reputation on hard work, honesty, and unwavering commitment to our clients.",
+        "Our approach is simple: treat every project like it's our own home. We understand the challenges Tulsa's climate presents, from the scorching summers to the icy winters, and we select materials and installation techniques that stand the test of time. We’re not just installing floors; we’re building lasting relationships with our clients, ensuring their satisfaction for years to come.",
+        "We're proud to be a part of the Tulsa community. We actively support local initiatives and partner with other businesses to contribute to the city's growth. When you choose Pearson and Sons, you're not just getting superior flooring – you're investing in Tulsa."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precise and durable flooring installation, tailored to Tulsa's climate and your home's architecture."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From classic hardwoods to modern tile, we offer a diverse range of flooring options to suit any style and budget."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Tulsa's housing stock and environmental challenges, ensuring long-lasting results."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive warranty and a commitment to exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and experience the Pearson and Sons difference."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting durability for your Tulsa home.",
+        "description": "Hardwood flooring adds warmth and character to any space, and is a fantastic choice for many Tulsa homes. At Pearson and Sons, we specialize in the installation, repair, and refinishing of all types of hardwood floors. Whether you prefer the classic look of oak, the rich tones of cherry, or the exotic appeal of bamboo, we have the perfect hardwood option for you.\n\nOur experienced installers take pride in their meticulous craftsmanship, ensuring that every plank is perfectly aligned and securely fastened. We use only the highest quality materials and techniques to protect your investment and ensure long-lasting beauty. Considering Tulsa's climate, we pay special attention to proper acclimation and moisture control to prevent warping and cracking.\n\nFrom initial consultation to final inspection, we work closely with you to understand your vision and deliver exceptional results. We handle everything from subfloor preparation to trim installation, ensuring a seamless and stress-free experience. Revitalize existing hardwood floors with our professional sanding and refinishing services. We can remove scratches, dents, and stains, restoring your floors to their original glory or updating them with a fresh new finish.",
+        "process": [
+          "Step 1: Consultation and Design - Discuss your needs and preferences to select the perfect hardwood flooring.",
+          "Step 2: Subfloor Preparation - Ensure a level and stable base for optimal flooring performance.",
+          "Step 3: Precise Installation - Expertly install each plank with meticulous attention to detail.",
+          "Step 4: Finishing and Sealing - Apply protective coatings to enhance durability and longevity."
+        ],
+        "benefits": [
+          "Adds Value to Your Home",
+          "Enhances the Beauty of Your Space",
+          "Provides a Durable and Long-Lasting Surface",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "What types of hardwood are best for Tulsa's climate?",
+            "answer": "Engineered hardwood and properly sealed solid hardwood are excellent choices for Tulsa. We recommend considering options that are resistant to moisture changes."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Typically, hardwood floors should be refinished every 7-10 years, depending on foot traffic and wear. We offer free inspections to assess your floor's condition."
+          },
+          {
+            "question": "What is the average cost of hardwood flooring installation?",
+            "answer": "The cost varies depending on the type of wood, the size of the area, and the complexity of the installation. We provide free, detailed quotes to help you budget effectively."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable, stylish, and water-resistant tile solutions for kitchens, bathrooms, and more.",
+        "description": "Tile flooring offers a wide range of design possibilities and exceptional durability, making it an ideal choice for kitchens, bathrooms, and other high-traffic areas in Tulsa homes. At Pearson and Sons, we specialize in the installation of ceramic, porcelain, and natural stone tiles.\n\nOur skilled installers meticulously prepare the subfloor to ensure a level and stable surface for your tile. We use premium-grade mortars and grouts to create a strong and waterproof bond, preventing cracks and leaks. We also offer a variety of grout colors and patterns to complement your tile and enhance the overall aesthetic.\n\nFrom intricate mosaic designs to large-format tiles, we have the expertise to handle any project with precision and care. We understand the importance of proper waterproofing in Tulsa's humid climate, and we take extra measures to protect your home from moisture damage. We work closely with you to select the perfect tile that matches your style and meets your specific needs.",
+        "process": [
+          "Step 1: Design Consultation - Select the perfect tile for your aesthetic and functional needs.",
+          "Step 2: Subfloor Preparation - Ensure a level, clean, and stable surface for tile installation.",
+          "Step 3: Precise Tile Installation - Expertly lay each tile with attention to detail and alignment.",
+          "Step 4: Grouting and Sealing - Apply grout and sealant for a waterproof and durable finish."
+        ],
+        "benefits": [
+          "Water Resistance",
+          "Durability",
+          "Easy to Clean",
+          "Design Versatility"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for bathrooms?",
+            "answer": "Porcelain tile is an excellent choice for bathrooms due to its water resistance and durability. We can help you choose the best option for your specific needs."
+          },
+          {
+            "question": "How do I clean and maintain tile floors?",
+            "answer": "Regular sweeping and mopping with a mild detergent are usually sufficient. Avoid using abrasive cleaners, as they can damage the grout and tile surface."
+          },
+          {
+            "question": "Can you install heated tile floors?",
+            "answer": "Yes, we can install heated tile floors for added comfort during Tulsa's cold winter months. This is a popular upgrade for bathrooms and kitchens."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring that mimics the look of hardwood and tile.",
+        "description": "Laminate flooring offers a cost-effective and visually appealing alternative to hardwood and tile. It's a great choice for homeowners in Tulsa who want the look of premium flooring without the high price tag. At Pearson and Sons, we offer a wide selection of laminate flooring options in various styles, colors, and textures.\n\nOur experienced installers ensure a smooth and seamless installation, paying close attention to detail and proper underlayment. We use high-quality laminate planks that are resistant to scratches, stains, and fading. Laminate is a good option for homes with pets and kids, as it holds up well to wear and tear.\n\nLaminate flooring is relatively easy to maintain, making it a practical choice for busy families. Regular sweeping and mopping are all that's needed to keep it looking its best. We can help you choose the perfect laminate flooring that complements your home's décor and fits your budget.",
+        "process": [
+          "Step 1: Selection and Measurement - Choose your laminate style and accurately measure the installation area.",
+          "Step 2: Subfloor Preparation - Ensure a clean, level, and dry subfloor.",
+          "Step 3: Precise Installation - Install the laminate planks with secure interlocking joints.",
+          "Step 4: Finishing Touches - Add baseboards and transitions for a polished look."
+        ],
+        "benefits": [
+          "Affordable",
+          "Easy to Install",
+          "Durable and Scratch-Resistant",
+          "Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate is water-resistant, it's not completely waterproof. We recommend avoiding laminate in areas with excessive moisture, such as bathrooms, unless using waterproof laminate."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, we recommend professional installation to ensure a smooth and seamless finish. Improper installation can lead to problems down the road."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof and comfortable vinyl flooring for kitchens, bathrooms, and basements.",
+        "description": "Vinyl flooring is a versatile and practical choice for homeowners in Tulsa. It's waterproof, comfortable underfoot, and available in a wide range of styles and colors. Whether you're looking for luxury vinyl plank (LVP), sheet vinyl, or vinyl tile, Pearson and Sons has the perfect solution for your needs.\n\nOur experienced installers ensure a flawless installation, paying close attention to detail and proper subfloor preparation. Vinyl flooring is ideal for kitchens, bathrooms, basements, and other areas prone to moisture. It's also a great choice for homes with pets and kids, as it's easy to clean and maintain.\n\nVinyl flooring offers a cost-effective alternative to hardwood and tile, without sacrificing style or durability. We can help you choose the perfect vinyl flooring that complements your home's décor and meets your budget.",
+        "process": [
+          "Step 1: Consultation and Selection - Choose the ideal vinyl flooring style and color.",
+          "Step 2: Subfloor Preparation - Ensure a smooth, clean, and level subfloor.",
+          "Step 3: Accurate Installation - Install the vinyl flooring with precision and care.",
+          "Step 4: Sealing and Finishing - Seal the edges and seams for a waterproof finish."
+        ],
+        "benefits": [
+          "Waterproof",
+          "Comfortable",
+          "Easy to Clean",
+          "Affordable"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its water resistance and durability."
+          },
+          {
+            "question": "How do I clean vinyl floors?",
+            "answer": "Regular sweeping and mopping with a mild detergent are usually sufficient."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl plank?",
+            "answer": "Sheet vinyl comes in large rolls, while vinyl plank comes in individual planks that interlock. Vinyl plank often mimics the look of hardwood or tile."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and stylish carpet installation for homes and businesses.",
+        "description": "Pearson and Sons Flooring Specialist offers professional carpet installation services tailored to the unique needs of Tulsa homes and businesses. We understand the importance of a comfortable and inviting space, and our experienced installers ensure a flawless finish every time. From plush carpets for cozy living rooms to durable options for high-traffic areas, we provide a range of styles and materials to suit any aesthetic and budget.\n\nOur comprehensive service includes precise measurements, expert padding installation, and seamless carpet fitting. We use industry-leading techniques to minimize seams and ensure a long-lasting, beautiful carpet that enhances the comfort of your space. We can also remove and dispose of your old flooring.\n\nWe work closely with you to select the perfect carpet that meets your style preferences and performance requirements. Whether you prefer the softness of a shag carpet or the stain resistance of a nylon carpet, we have the expertise to deliver exceptional results.",
+        "process": [
+          "Step 1: Consultation and Selection - Choose your carpet style and material.",
+          "Step 2: Measurement and Quote - Accurate measurements for a precise quote.",
+          "Step 3: Padding Installation - Quality padding for enhanced comfort and longevity.",
+          "Step 4: Professional Installation - Seamless carpet fitting for a beautiful finish."
+        ],
+        "benefits": [
+          "Enhanced Comfort",
+          "Noise Reduction",
+          "Variety of Styles",
+          "Improved Insulation"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Nylon and olefin carpets are excellent choices for high-traffic areas due to their durability and stain resistance."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "We recommend professional carpet cleaning every 12-18 months to maintain its appearance and hygiene."
+          },
+          {
+            "question": "Do you offer carpet repair services?",
+            "answer": "Yes, we offer carpet repair services to fix tears, stains, and other damage."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair",
+        "name": "Floor Repair",
+        "shortDescription": "Expert floor repair services to restore the beauty and integrity of your floors.",
+        "description": "Pearson and Sons Flooring Specialist provides comprehensive floor repair services to address a wide range of issues, from minor cracks and dents to major structural damage. We understand that damaged floors can detract from the beauty and safety of your home or business, and our skilled technicians are equipped to restore them to their original condition.\n\nOur floor repair services include hardwood refinishing, tile replacement, laminate repair, and vinyl patching. We use high-quality materials and proven techniques to ensure a durable and seamless repair. Whether your floors have been damaged by water, wear, or accidents, we can provide a cost-effective solution that extends their lifespan and enhances their appearance.\n\nWe begin with a thorough assessment of the damage to determine the best course of action. We then provide a detailed quote and timeline for the repair. Our goal is to minimize disruption to your home or business while delivering exceptional results.",
+        "process": [
+          "Step 1: Damage Assessment - Evaluate the extent of the floor damage.",
+          "Step 2: Repair Plan - Develop a customized repair plan.",
+          "Step 3: Material Selection - Choose high-quality materials for the repair.",
+          "Step 4: Expert Repair - Restore the floor to its original condition."
+        ],
+        "benefits": [
+          "Extends Floor Lifespan",
+          "Enhances Appearance",
+          "Improves Safety",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair water-damaged hardwood floors?",
+            "answer": "Yes, we can repair water-damaged hardwood floors by replacing damaged planks and refinishing the surface."
+          },
+          {
+            "question": "How long does floor repair take?",
+            "answer": "The duration of floor repair depends on the extent of the damage and the type of flooring. We provide a detailed timeline before starting the work."
+          },
+          {
+            "question": "Do you offer emergency floor repair services?",
+            "answer": "Yes, we offer emergency floor repair services to address urgent issues such as water damage or safety hazards."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist is proud to provide comprehensive flooring services to the residents and businesses of Tulsa, Oklahoma. From hardwood installation and refinishing to carpet and tile services, we are committed to delivering exceptional craftsmanship and customer satisfaction. We understand the unique needs of Tulsa homes and businesses, and we tailor our services to meet those specific requirements.\n\nOur team of experienced flooring professionals is dedicated to providing high-quality materials and expert installation. Whether you're looking to upgrade your home with new hardwood floors or need durable and stylish flooring for your commercial space, Pearson and Sons is your trusted partner in Tulsa. We offer a wide selection of flooring options to suit any style and budget.\n\nWe are committed to providing exceptional customer service and ensuring that every project is completed to the highest standards. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee.",
+        "localContext": "Tulsa is known for its art deco architecture, vibrant arts scene, and thriving business community, reflecting the diverse needs of our flooring clients.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Sand Springs"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist extends its expert flooring services to the growing community of Broken Arrow, Oklahoma. We provide a wide range of services, including hardwood, laminate, tile, and carpet installation, as well as flooring repair and refinishing. Our goal is to enhance the beauty and value of your Broken Arrow home or business with top-quality flooring solutions.\n\nWe understand that Broken Arrow residents value quality and durability, which is why we only use the best materials and employ highly skilled installers. Whether you're renovating your home, building a new commercial space, or simply need to update your flooring, Pearson and Sons is here to help. We offer free consultations and estimates to ensure you get the perfect flooring solution for your needs.\n\nWe pride ourselves on our commitment to customer satisfaction and our attention to detail. We are dedicated to providing a seamless and stress-free flooring experience for our Broken Arrow clients.",
+        "localContext": "Broken Arrow is a family-friendly community with a strong focus on education and recreation, influencing the flooring choices we offer to suit active lifestyles.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist is pleased to serve the residents and businesses of Owasso, Oklahoma, with our comprehensive flooring services. We offer a wide variety of flooring options, including hardwood, tile, carpet, and laminate, to meet the diverse needs of the Owasso community. Our experienced team is dedicated to providing exceptional craftsmanship and superior customer service.\n\nWe understand that Owasso homeowners and business owners alike appreciate quality and value. That's why we offer competitive pricing and a wide selection of flooring products to suit any budget. Whether you're looking to upgrade your home's flooring or need durable and stylish flooring for your commercial space, Pearson and Sons is your trusted partner in Owasso.\n\nWe are committed to providing a hassle-free flooring experience from start to finish. We offer free consultations, expert advice, and professional installation services to ensure your complete satisfaction.",
+        "localContext": "Owasso is a rapidly growing suburban community known for its excellent schools and family-oriented atmosphere, influencing our flooring recommendations for durability and style.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist provides quality flooring services to the residents and businesses of Sand Springs, Oklahoma. We offer a wide range of flooring options, including hardwood, laminate, tile, and carpet. Our team of experienced installers is dedicated to providing exceptional craftsmanship and customer satisfaction.\n\nWe understand that Sand Springs residents value quality and affordability. That's why we offer competitive pricing and a wide selection of flooring products to suit any budget. Whether you're looking to update your home's flooring or need durable and stylish flooring for your commercial space, Pearson and Sons is here to help.\n\nWe are committed to providing a seamless and stress-free flooring experience. We offer free consultations, expert advice, and professional installation services to ensure your complete satisfaction.",
+        "localContext": "Sand Springs, with its scenic views along the Arkansas River and historic downtown, inspires us to offer flooring options that complement its natural beauty and charm.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist is dedicated to providing top-notch flooring services to the residents and businesses of Bixby, Oklahoma. We offer a comprehensive range of flooring solutions, including hardwood, tile, laminate, and carpet. Our team of skilled professionals is committed to delivering exceptional quality and customer satisfaction.\n\nWe understand that Bixby homeowners and business owners value quality and style. That's why we offer a wide selection of premium flooring products and expert installation services to enhance the beauty and value of your property. Whether you're renovating your home or building a new commercial space, Pearson and Sons is your trusted flooring partner in Bixby.\n\nWe pride ourselves on our attention to detail and our commitment to providing a seamless and stress-free flooring experience. We offer free consultations, expert advice, and professional installation services to ensure your complete satisfaction.",
+        "localContext": "Bixby's rapid growth and family-oriented community drive us to provide durable and stylish flooring solutions that meet the needs of modern families.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Tulsa",
+          "Jenks"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist proudly serves the community of Jenks, Oklahoma, offering a wide array of flooring services designed to meet the needs of homeowners and businesses alike. From luxurious hardwood to durable tile and comfortable carpet, we provide expert installation and exceptional customer service.\n\nWe understand that Jenks residents appreciate quality and value. That's why we offer competitive pricing and a diverse selection of flooring options to suit any style and budget. Whether you're looking to update your home's flooring or need a reliable flooring solution for your commercial space, Pearson and Sons is here to help.\n\nWe are committed to providing a seamless and stress-free experience from start to finish. Our team of experienced professionals will work with you every step of the way to ensure your complete satisfaction.",
+        "localContext": "Jenks, known for its excellent schools and the Oklahoma Aquarium, inspires us to offer flooring solutions that are both beautiful and practical for busy families.",
+        "nearbyAreas": [
+          "Bixby",
+          "Tulsa",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist is pleased to offer our expert flooring services to the residents and businesses of Sapulpa, Oklahoma. We provide a wide range of flooring options, including hardwood, laminate, tile, and carpet. Our team is dedicated to providing top-quality workmanship and outstanding customer service.\n\nWe understand that Sapulpa residents value quality and affordability. That's why we offer competitive pricing and a wide selection of flooring products to suit any budget. Whether you're looking to renovate your home or need durable and stylish flooring for your commercial space, Pearson and Sons is here to help.\n\nWe are committed to providing a hassle-free experience from start to finish. We offer free consultations, expert advice, and professional installation services to ensure your complete satisfaction.",
+        "localContext": "Sapulpa's rich history and small-town charm inspire us to offer flooring options that blend traditional aesthetics with modern functionality.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sand Springs",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "Pearson and Sons Flooring Specialist is proud to provide high-quality flooring services to the residents and businesses of Glenpool, Oklahoma. We offer a wide range of flooring options, including hardwood, laminate, tile, and carpet, to meet the diverse needs of our clients. Our team of experienced professionals is committed to delivering exceptional craftsmanship and superior customer service.\n\nWe understand that Glenpool homeowners and business owners value quality, style, and durability. That's why we offer a wide selection of flooring products from leading manufacturers, ensuring that you get the perfect flooring solution for your needs. Whether you're renovating your home or building a new commercial space, Pearson and Sons is your trusted partner in Glenpool.\n\nWe are dedicated to providing a seamless and stress-free flooring experience. We offer free consultations, expert advice, and professional installation services to ensure your complete satisfaction.",
+        "localContext": "Glenpool's growing community and family-friendly atmosphere inspire us to provide durable and stylish flooring solutions that meet the needs of active families.",
+        "nearbyAreas": [
+          "Jenks",
+          "Sapulpa",
+          "Bixby"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah G.",
+        "rating": 5,
+        "service": "Hardwood Flooring",
+        "text": "Pearson and Sons did an amazing job installing new hardwood floors in our Brookside home. The team was professional, efficient, and the floors look absolutely beautiful. They even helped us choose the perfect stain to match our existing furniture. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Tile Flooring",
+        "text": "We hired Pearson and Sons to install tile in our kitchen and bathrooms. The quality of the work was excellent, and the price was fair. There was a slight delay due to weather, but they communicated proactively and kept us informed throughout the process.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica K.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "Pearson and Sons installed laminate flooring in our basement. The team was professional, efficient, and the floors look great. They even cleaned up after themselves, which was a huge plus. Great value for the price!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "We had Pearson and Sons install vinyl flooring in our laundry room. The quality of the work was excellent, and the price was very reasonable. The team was friendly and professional, and we would definitely use them again.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Amy S.",
+        "rating": 5,
+        "service": "Floor Repair",
+        "text": "Pearson and Sons repaired some water damage to our hardwood floors. They were able to match the existing stain perfectly, and the repairs are seamless. Excellent service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "The team at Pearson and Sons did a great job installing new carpet in our living room. They were punctual, professional, and the installation was flawless. We are very happy with the results.",
+        "date": "2025-01-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Pearson and Sons Flooring | Tulsa OK",
+        "description": "Tulsa's trusted flooring contractor. Hardwood, tile, laminate, vinyl installation & repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Pearson and Sons Flooring",
+        "description": "Learn about Pearson and Sons Flooring Specialist, Tulsa's leading flooring contractor. Quality service, local expertise."
+      },
+      "services": {
+        "title": "Flooring Services | Pearson and Sons",
+        "description": "Expert flooring installation & repair in Tulsa OK. Hardwood, tile, laminate, vinyl, carpet. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact Pearson and Sons Flooring",
+        "description": "Contact Pearson and Sons Flooring Specialist for a free quote. Serving Tulsa and surrounding areas."
+      },
+      "reviews": {
+        "title": "Pearson and Sons Flooring Reviews",
+        "description": "Read reviews for Pearson and Sons Flooring Specialist. See why Tulsa trusts us for flooring installation & repair."
+      },
+      "service-areas": {
+        "title": "Pearson and Sons Service Areas",
+        "description": "Pearson and Sons Flooring Specialist service areas. Tulsa and surrounding Oklahoma communities. Get a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "floor-repair": "/images/service-floor-repair.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair": {
+        "src": "/images/service-floor-repair.webp",
+        "srcset": "/images/service-floor-repair-400w.webp 400w, /images/service-floor-repair-800w.webp 800w, /images/service-floor-repair-1200w.webp 1200w, /images/service-floor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

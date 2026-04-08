@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-pearson-and-sons-flooring-specialist.dream-surge.com/sitemap-index.xml
